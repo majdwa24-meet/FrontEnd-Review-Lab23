@@ -22,8 +22,17 @@ p {
 }
 
 #hi {
-
+  background-color: red;
+  margin: 0;
+  position: absolute;
+  top: 94%;
+  left: 50%;
+  -ms-transform: translate(-50%, 0%);
+  transform: translate(-50%, 0%);
 }
+
+
+
 
 .row {
   display: flex;
